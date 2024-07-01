@@ -1,0 +1,15 @@
+D:\.NET\RentalCars\BudgetCars\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\.NET\RentalCars\BudgetCars\Domain\bin\Debug\net8.0\Domain.dll
+D:\.NET\RentalCars\BudgetCars\Domain\bin\Debug\net8.0\Domain.pdb
+D:\.NET\RentalCars\BudgetCars\Domain\bin\Debug\net8.0\Core.Persistence.dll
+D:\.NET\RentalCars\BudgetCars\Domain\bin\Debug\net8.0\Core.Persistence.pdb
+D:\.NET\RentalCars\BudgetCars\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+D:\.NET\RentalCars\BudgetCars\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\RentalCars\BudgetCars\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\.NET\RentalCars\BudgetCars\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\.NET\RentalCars\BudgetCars\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\.NET\RentalCars\BudgetCars\Domain\obj\Debug\net8.0\Domain.csproj.Up2Date
+D:\.NET\RentalCars\BudgetCars\Domain\obj\Debug\net8.0\Domain.dll
+D:\.NET\RentalCars\BudgetCars\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\.NET\RentalCars\BudgetCars\Domain\obj\Debug\net8.0\Domain.pdb
+D:\.NET\RentalCars\BudgetCars\Domain\obj\Debug\net8.0\ref\Domain.dll

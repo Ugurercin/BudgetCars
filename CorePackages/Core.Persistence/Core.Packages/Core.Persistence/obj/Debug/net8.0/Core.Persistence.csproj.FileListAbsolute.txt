@@ -1,0 +1,11 @@
+D:\.NET\RentalCars\CorePackages\Core.Persistence\Core.Packages\Core.Persistence\bin\Debug\net8.0\Core.Persistence.deps.json
+D:\.NET\RentalCars\CorePackages\Core.Persistence\Core.Packages\Core.Persistence\bin\Debug\net8.0\Core.Persistence.dll
+D:\.NET\RentalCars\CorePackages\Core.Persistence\Core.Packages\Core.Persistence\bin\Debug\net8.0\Core.Persistence.pdb
+D:\.NET\RentalCars\CorePackages\Core.Persistence\Core.Packages\Core.Persistence\obj\Debug\net8.0\Core.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\RentalCars\CorePackages\Core.Persistence\Core.Packages\Core.Persistence\obj\Debug\net8.0\Core.Persistence.AssemblyInfoInputs.cache
+D:\.NET\RentalCars\CorePackages\Core.Persistence\Core.Packages\Core.Persistence\obj\Debug\net8.0\Core.Persistence.AssemblyInfo.cs
+D:\.NET\RentalCars\CorePackages\Core.Persistence\Core.Packages\Core.Persistence\obj\Debug\net8.0\Core.Persistence.csproj.CoreCompileInputs.cache
+D:\.NET\RentalCars\CorePackages\Core.Persistence\Core.Packages\Core.Persistence\obj\Debug\net8.0\Core.Persistence.dll
+D:\.NET\RentalCars\CorePackages\Core.Persistence\Core.Packages\Core.Persistence\obj\Debug\net8.0\refint\Core.Persistence.dll
+D:\.NET\RentalCars\CorePackages\Core.Persistence\Core.Packages\Core.Persistence\obj\Debug\net8.0\Core.Persistence.pdb
+D:\.NET\RentalCars\CorePackages\Core.Persistence\Core.Packages\Core.Persistence\obj\Debug\net8.0\ref\Core.Persistence.dll

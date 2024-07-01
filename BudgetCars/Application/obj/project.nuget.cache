@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZuyzsiooMq4=",
+  "success": true,
+  "projectFilePath": "D:\\.NET\\RentalCars\\BudgetCars\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ugur\\.nuget\\packages\\mediatr\\12.3.0\\mediatr.12.3.0.nupkg.sha512",
+    "C:\\Users\\Ugur\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Ugur\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
