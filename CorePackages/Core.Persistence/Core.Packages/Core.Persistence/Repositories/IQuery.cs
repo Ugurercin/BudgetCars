@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Application.Services.Repositories
+namespace Core.Persistence.Repositories
 {
-    public interface IBrandRepository:IAsyncRepository<Brand>, IRepository<Brand>
+    public interface IQuery<T>
     {
-
+        IQueryable<T> Query();
     }
 }

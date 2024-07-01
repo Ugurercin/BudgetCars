@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\.NET\\RentalCars\\BudgetCars\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB6E0FD8-9169-42D3-AA4F-494B88FB8131}|Application\\Application.csproj|d:\\.net\\rentalcars\\budgetcars\\application\\services\\repositories\\ibrandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB6E0FD8-9169-42D3-AA4F-494B88FB8131}|Application\\Application.csproj|solutionrelative:application\\services\\repositories\\ibrandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IBrandRepository.cs",
+              "DocumentMoniker": "D:\\.NET\\RentalCars\\BudgetCars\\Application\\Services\\Repositories\\IBrandRepository.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\Repositories\\IBrandRepository.cs",
+              "ToolTip": "D:\\.NET\\RentalCars\\BudgetCars\\Application\\Services\\Repositories\\IBrandRepository.cs",
+              "RelativeToolTip": "Application\\Services\\Repositories\\IBrandRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T18:42:34.375Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

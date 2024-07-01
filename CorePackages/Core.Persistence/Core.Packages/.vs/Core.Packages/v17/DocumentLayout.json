@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "D:\\.NET\\RentalCars\\CorePackages\\Core.Persistence\\Core.Packages\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{827B4F28-8AF0-4C54-94D5-C4385A2AE2EE}|Core.Persistence\\Core.Persistence.csproj|d:\\.net\\rentalcars\\corepackages\\core.persistence\\core.packages\\core.persistence\\repositories\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{827B4F28-8AF0-4C54-94D5-C4385A2AE2EE}|Core.Persistence\\Core.Persistence.csproj|solutionrelative:core.persistence\\repositories\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{827B4F28-8AF0-4C54-94D5-C4385A2AE2EE}|Core.Persistence\\Core.Persistence.csproj|d:\\.net\\rentalcars\\corepackages\\core.persistence\\core.packages\\core.persistence\\iasyncrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{827B4F28-8AF0-4C54-94D5-C4385A2AE2EE}|Core.Persistence\\Core.Persistence.csproj|solutionrelative:core.persistence\\iasyncrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{827B4F28-8AF0-4C54-94D5-C4385A2AE2EE}|Core.Persistence\\Core.Persistence.csproj|d:\\.net\\rentalcars\\corepackages\\core.persistence\\core.packages\\core.persistence\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{827B4F28-8AF0-4C54-94D5-C4385A2AE2EE}|Core.Persistence\\Core.Persistence.csproj|solutionrelative:core.persistence\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{827B4F28-8AF0-4C54-94D5-C4385A2AE2EE}|Core.Persistence\\Core.Persistence.csproj|d:\\.net\\rentalcars\\corepackages\\core.persistence\\core.packages\\core.persistence\\repositories\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{827B4F28-8AF0-4C54-94D5-C4385A2AE2EE}|Core.Persistence\\Core.Persistence.csproj|solutionrelative:core.persistence\\repositories\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Entity.cs",
-              "DocumentMoniker": "D:\\.NET\\RentalCars\\CorePackages\\Core.Persistence\\Core.Packages\\Core.Persistence\\Repositories\\Entity.cs",
-              "RelativeDocumentMoniker": "Core.Persistence\\Repositories\\Entity.cs",
-              "ToolTip": "D:\\.NET\\RentalCars\\CorePackages\\Core.Persistence\\Core.Packages\\Core.Persistence\\Repositories\\Entity.cs",
-              "RelativeToolTip": "Core.Persistence\\Repositories\\Entity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "IQuery.cs",
+              "DocumentMoniker": "D:\\.NET\\RentalCars\\CorePackages\\Core.Persistence\\Core.Packages\\Core.Persistence\\Repositories\\IQuery.cs",
+              "RelativeDocumentMoniker": "Core.Persistence\\Repositories\\IQuery.cs",
+              "ToolTip": "D:\\.NET\\RentalCars\\CorePackages\\Core.Persistence\\Core.Packages\\Core.Persistence\\Repositories\\IQuery.cs",
+              "RelativeToolTip": "Core.Persistence\\Repositories\\IQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T17:51:02.471Z",
+              "WhenOpened": "2024-07-01T20:01:42.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\.NET\\RentalCars\\CorePackages\\Core.Persistence\\Core.Packages\\Core.Persistence\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "Core.Persistence\\Repositories\\IRepository.cs",
+              "ToolTip": "D:\\.NET\\RentalCars\\CorePackages\\Core.Persistence\\Core.Packages\\Core.Persistence\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "Core.Persistence\\Repositories\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T19:59:10.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IAsyncRepository.cs",
+              "DocumentMoniker": "D:\\.NET\\RentalCars\\CorePackages\\Core.Persistence\\Core.Packages\\Core.Persistence\\IAsyncRepository.cs",
+              "RelativeDocumentMoniker": "Core.Persistence\\IAsyncRepository.cs",
+              "ToolTip": "D:\\.NET\\RentalCars\\CorePackages\\Core.Persistence\\Core.Packages\\Core.Persistence\\IAsyncRepository.cs",
+              "RelativeToolTip": "Core.Persistence\\IAsyncRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T19:08:34.979Z",
               "EditorCaption": ""
             }
           ]
