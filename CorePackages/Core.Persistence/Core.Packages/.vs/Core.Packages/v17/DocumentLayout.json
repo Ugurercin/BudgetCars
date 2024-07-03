@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "D:\\.NET\\RentalCars\\CorePackages\\Core.Persistence\\Core.Packages\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{827B4F28-8AF0-4C54-94D5-C4385A2AE2EE}|Core.Persistence\\Core.Persistence.csproj|d:\\.net\\rentalcars\\corepackages\\core.persistence\\core.packages\\core.persistence\\iasyncrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{827B4F28-8AF0-4C54-94D5-C4385A2AE2EE}|Core.Persistence\\Core.Persistence.csproj|solutionrelative:core.persistence\\iasyncrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{827B4F28-8AF0-4C54-94D5-C4385A2AE2EE}|Core.Persistence\\Core.Persistence.csproj|d:\\.net\\rentalcars\\corepackages\\core.persistence\\core.packages\\core.persistence\\dynamic\\sort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{827B4F28-8AF0-4C54-94D5-C4385A2AE2EE}|Core.Persistence\\Core.Persistence.csproj|solutionrelative:core.persistence\\dynamic\\sort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{827B4F28-8AF0-4C54-94D5-C4385A2AE2EE}|Core.Persistence\\Core.Persistence.csproj|d:\\.net\\rentalcars\\corepackages\\core.persistence\\core.packages\\core.persistence\\dynamic\\filter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{827B4F28-8AF0-4C54-94D5-C4385A2AE2EE}|Core.Persistence\\Core.Persistence.csproj|solutionrelative:core.persistence\\dynamic\\filter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{827B4F28-8AF0-4C54-94D5-C4385A2AE2EE}|Core.Persistence\\Core.Persistence.csproj|d:\\.net\\rentalcars\\corepackages\\core.persistence\\core.packages\\core.persistence\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{827B4F28-8AF0-4C54-94D5-C4385A2AE2EE}|Core.Persistence\\Core.Persistence.csproj|solutionrelative:core.persistence\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{827B4F28-8AF0-4C54-94D5-C4385A2AE2EE}|Core.Persistence\\Core.Persistence.csproj|d:\\.net\\rentalcars\\corepackages\\core.persistence\\core.packages\\core.persistence\\repositories\\iasyncrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{827B4F28-8AF0-4C54-94D5-C4385A2AE2EE}|Core.Persistence\\Core.Persistence.csproj|solutionrelative:core.persistence\\repositories\\iasyncrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{827B4F28-8AF0-4C54-94D5-C4385A2AE2EE}|Core.Persistence\\Core.Persistence.csproj|d:\\.net\\rentalcars\\corepackages\\core.persistence\\core.packages\\core.persistence\\paging\\iqueryablepaginateextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{827B4F28-8AF0-4C54-94D5-C4385A2AE2EE}|Core.Persistence\\Core.Persistence.csproj|solutionrelative:core.persistence\\paging\\iqueryablepaginateextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{827B4F28-8AF0-4C54-94D5-C4385A2AE2EE}|Core.Persistence\\Core.Persistence.csproj|d:\\.net\\rentalcars\\corepackages\\core.persistence\\core.packages\\core.persistence\\paging\\paginate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{827B4F28-8AF0-4C54-94D5-C4385A2AE2EE}|Core.Persistence\\Core.Persistence.csproj|solutionrelative:core.persistence\\paging\\paginate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{827B4F28-8AF0-4C54-94D5-C4385A2AE2EE}|Core.Persistence\\Core.Persistence.csproj|d:\\.net\\rentalcars\\corepackages\\core.persistence\\core.packages\\core.persistence\\core.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{827B4F28-8AF0-4C54-94D5-C4385A2AE2EE}|Core.Persistence\\Core.Persistence.csproj|solutionrelative:core.persistence\\core.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{827B4F28-8AF0-4C54-94D5-C4385A2AE2EE}|Core.Persistence\\Core.Persistence.csproj|d:\\.net\\rentalcars\\corepackages\\core.persistence\\core.packages\\core.persistence\\repositories\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,11 +42,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Sort.cs",
+              "DocumentMoniker": "D:\\.NET\\RentalCars\\CorePackages\\Core.Persistence\\Core.Packages\\Core.Persistence\\Dynamic\\Sort.cs",
+              "RelativeDocumentMoniker": "Core.Persistence\\Dynamic\\Sort.cs",
+              "ToolTip": "D:\\.NET\\RentalCars\\CorePackages\\Core.Persistence\\Core.Packages\\Core.Persistence\\Dynamic\\Sort.cs",
+              "RelativeToolTip": "Core.Persistence\\Dynamic\\Sort.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T17:15:50.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Filter.cs",
+              "DocumentMoniker": "D:\\.NET\\RentalCars\\CorePackages\\Core.Persistence\\Core.Packages\\Core.Persistence\\Dynamic\\Filter.cs",
+              "RelativeDocumentMoniker": "Core.Persistence\\Dynamic\\Filter.cs",
+              "ToolTip": "D:\\.NET\\RentalCars\\CorePackages\\Core.Persistence\\Core.Packages\\Core.Persistence\\Dynamic\\Filter.cs",
+              "RelativeToolTip": "Core.Persistence\\Dynamic\\Filter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T17:13:04.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IQueryablePaginateExtensions.cs",
+              "DocumentMoniker": "D:\\.NET\\RentalCars\\CorePackages\\Core.Persistence\\Core.Packages\\Core.Persistence\\Paging\\IQueryablePaginateExtensions.cs",
+              "RelativeDocumentMoniker": "Core.Persistence\\Paging\\IQueryablePaginateExtensions.cs",
+              "ToolTip": "D:\\.NET\\RentalCars\\CorePackages\\Core.Persistence\\Core.Packages\\Core.Persistence\\Paging\\IQueryablePaginateExtensions.cs",
+              "RelativeToolTip": "Core.Persistence\\Paging\\IQueryablePaginateExtensions.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAgwCsAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T17:05:57.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Paginate.cs",
+              "DocumentMoniker": "D:\\.NET\\RentalCars\\CorePackages\\Core.Persistence\\Core.Packages\\Core.Persistence\\Paging\\Paginate.cs",
+              "RelativeDocumentMoniker": "Core.Persistence\\Paging\\Paginate.cs",
+              "ToolTip": "D:\\.NET\\RentalCars\\CorePackages\\Core.Persistence\\Core.Packages\\Core.Persistence\\Paging\\Paginate.cs",
+              "RelativeToolTip": "Core.Persistence\\Paging\\Paginate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T17:02:08.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Core.Persistence",
+              "DocumentMoniker": "D:\\.NET\\RentalCars\\CorePackages\\Core.Persistence\\Core.Packages\\Core.Persistence\\Core.Persistence.csproj",
+              "RelativeDocumentMoniker": "Core.Persistence\\Core.Persistence.csproj",
+              "ToolTip": "D:\\.NET\\RentalCars\\CorePackages\\Core.Persistence\\Core.Packages\\Core.Persistence\\Core.Persistence.csproj",
+              "RelativeToolTip": "Core.Persistence\\Core.Persistence.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-03T17:01:49.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "IQuery.cs",
               "DocumentMoniker": "D:\\.NET\\RentalCars\\CorePackages\\Core.Persistence\\Core.Packages\\Core.Persistence\\Repositories\\IQuery.cs",
               "RelativeDocumentMoniker": "Core.Persistence\\Repositories\\IQuery.cs",
@@ -39,26 +124,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "IRepository.cs",
               "DocumentMoniker": "D:\\.NET\\RentalCars\\CorePackages\\Core.Persistence\\Core.Packages\\Core.Persistence\\Repositories\\IRepository.cs",
               "RelativeDocumentMoniker": "Core.Persistence\\Repositories\\IRepository.cs",
               "ToolTip": "D:\\.NET\\RentalCars\\CorePackages\\Core.Persistence\\Core.Packages\\Core.Persistence\\Repositories\\IRepository.cs",
               "RelativeToolTip": "Core.Persistence\\Repositories\\IRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABHAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-01T19:59:10.821Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "IAsyncRepository.cs",
-              "DocumentMoniker": "D:\\.NET\\RentalCars\\CorePackages\\Core.Persistence\\Core.Packages\\Core.Persistence\\IAsyncRepository.cs",
-              "RelativeDocumentMoniker": "Core.Persistence\\IAsyncRepository.cs",
-              "ToolTip": "D:\\.NET\\RentalCars\\CorePackages\\Core.Persistence\\Core.Packages\\Core.Persistence\\IAsyncRepository.cs",
-              "RelativeToolTip": "Core.Persistence\\IAsyncRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAaAAAA",
+              "DocumentMoniker": "D:\\.NET\\RentalCars\\CorePackages\\Core.Persistence\\Core.Packages\\Core.Persistence\\Repositories\\IAsyncRepository.cs",
+              "RelativeDocumentMoniker": "Core.Persistence\\Repositories\\IAsyncRepository.cs",
+              "ToolTip": "D:\\.NET\\RentalCars\\CorePackages\\Core.Persistence\\Core.Packages\\Core.Persistence\\Repositories\\IAsyncRepository.cs",
+              "RelativeToolTip": "Core.Persistence\\Repositories\\IAsyncRepository.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAYwBQAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-01T19:08:34.979Z",
               "EditorCaption": ""

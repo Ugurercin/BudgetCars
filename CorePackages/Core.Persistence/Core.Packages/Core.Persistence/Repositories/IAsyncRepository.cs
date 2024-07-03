@@ -1,4 +1,4 @@
-﻿using Core.Persistence.Repositories;
+﻿using Core.Persistence.Paging;
 using Microsoft.EntityFrameworkCore.Query;
 using System;
 using System.Collections.Generic;
@@ -7,20 +7,20 @@ using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Core.Persistence
+namespace Core.Persistence.Repositories
 {
-    public interface IAsyncRepository<TEntity,TEntityId>:IQueryable<TEntity> where TEntity : Entity<TEntityId>
+    public interface IAsyncRepository<TEntity, TEntityId> : IQueryable<TEntity> where TEntity : Entity<TEntityId>
     {
         Task<TEntity?> GetAsync(
-            Expression<Func<TEntity,bool>> predicate,
-            Func<IQueryable<TEntity>, IIncludableQueryable<TEntity,object>>? include=null,
+            Expression<Func<TEntity, bool>> predicate,
+            Func<IQueryable<TEntity>, IIncludableQueryable<TEntity, object>>? include = null,
             bool withDeleted = false,
             bool enableTracking = true,
             CancellationToken cancellationToken = default);
 
-        Task<IPaginate<TEntity>> GetListAsync(
+        Task<Paginate<TEntity>> GetListAsync(
            Expression<Func<TEntity, bool>> predicate,
-             Func<IQueryable<TEntity>, IOrderedQueryable<TEntity>>? orderBy=null,
+             Func<IQueryable<TEntity>, IOrderedQueryable<TEntity>>? orderBy = null,
              Func<IQueryable<TEntity>, IIncludableQueryable<TEntity, object>>? include = null,
             int index = 0,
             int size = 10,
@@ -28,7 +28,7 @@ namespace Core.Persistence
             bool enableTracking = true,
             CancellationToken cancellationToken = default);
 
-        Task<IPaginate<TEntity>> GetListByDynamicAsync(
+        Task<Paginate<TEntity>> GetListByDynamicAsync(
             DynamicQuery dynamic,
             Expression<Func<TEntity, bool>> predicate,
             Func<IQueryable<TEntity>, IIncludableQueryable<TEntity, object>>? include = null,
